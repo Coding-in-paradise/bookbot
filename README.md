@@ -1,1 +1,1 @@
-BookBot is my first project! Bookbot is a program that analyzes a text and prints results about the total number of words, and the total number of times each alphabetical character appears in the text.
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
